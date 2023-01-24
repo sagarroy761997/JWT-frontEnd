@@ -1,5 +1,5 @@
 # JWT frontend
-It is a login page.
+It is a login page. This app is the frontend of JWT autherization. for backend part go to to https://github.com/sagarroy761997/JWT-Backend
 
 # Tools Used
 - React JS
