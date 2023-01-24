@@ -18,7 +18,7 @@ const useStyles = makeStyles({
     // backgroundColor: 'black'
   },
   form: {
-    backgroundColor: "beige",
+    backgroundColor: 'white',
     border: "1px solid ",
     marginTop: "6vw",
     display: "flex",
